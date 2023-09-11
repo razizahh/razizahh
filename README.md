@@ -7,3 +7,8 @@
 <br> 🍫 I like chocolate
 <br> 👀 I'm currently studying geology and geophysics
 <br> 📩 Reach me on nurazizah0905@mail.ugm.ac.id
+
+Connect with me
+
+[![<Instagram>](https://img.shields.io/badge/Instagram-003d66?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nurazz.zh?igshid=OGQ5ZDc2ODk2ZA==)
+
