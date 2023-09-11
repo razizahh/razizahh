@@ -9,3 +9,4 @@ png" alt="House with Garden" width="25" height="25" /> I'm from Pemalang, Centra
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Chocolate%20Bar.png" alt="Chocolate Bar" width="25" height="25" /> Aku like chocolate
 <h3> 👀 I'm currently studying geology and geophysics
 <h3> 📩 Reach me on nurazizah0905@mail.ugm.ac.id</h3>
+# ini buat fetch sm pull
